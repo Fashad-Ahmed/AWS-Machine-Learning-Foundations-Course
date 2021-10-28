@@ -9,3 +9,6 @@ pip install twine
 
 ```
 
+[udacity-download.pdf](https://github.com/Fashad-Ahmed/AWS-Machine-Learning-Foundations-Course/files/7435473/udacity-download.pdf)
+
+https://confirm.udacity.com/KK4LGPCG
